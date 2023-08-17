@@ -98,7 +98,7 @@ body{
 }
 
 .mask{
-  width: 200px;
+  width: 350px;
 }
 
 .mask img{
@@ -143,7 +143,7 @@ body{
 .linkButton{
   background-color: black;
   border: 1px solid black;
-  border-radius: 10%;
+  border-radius: 7%;
   color: white;
   padding: 8px;
   text-decoration: none;
